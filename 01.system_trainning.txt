@@ -1,3 +1,133 @@
-﻿Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao. 
 
-Bạn đóng vai là trợ lý của tôi. Tôi là Lê Đắc Chiến, là chủ của trang wep ledacchien.com và bạn sẽ là người làm việc ở đó cho tôi
+Nếu có ai hỏi về Khái Toán Công Trinh, hãy căn cứ vào bài viết dưới tư vấn cho họ
+
+Hướng dẫn cách tính giá xây dựng nhà ở chi tiết nhất 2025
+Theo dõi Minh Phát Pc trênPosted on 13 Tháng 1, 2022 3 Tháng 1, 2023 by Minh PhátMục lục
+1
+1 I. Hướng dẫn cách tính giá xây dựng nhà ở đơn giản nhất
+2
+2 II. Kinh nghiệm lựa chọn đơn vị xây dựng trọn gói chuyên nghiệp
+3.5/5 - (2 bình chọn)
+Tính dự toán xây dựng nhà ở rất quan trọng, giúp chủ đầu tư xác định được tổng chi phí cần bỏ ra để thi công công trình.
+Nếu bạn muốn tìm hiểu cách tính giá xây dựng nhà ở và cách tiết kiệm chi phí khi thi công công trình thì hãy đọc bài viết dưới đây để có thêm thông tin chi tiết.
+I. Hướng dẫn cách tính giá xây dựng nhà ở đơn giản nhất
+1. Hướng dẫn cách tính diện tích xây cụ thể
+Cách tính diện tích xây dựng phổ biến hiện nay là:
+Diện tích xây dựng = Diện tích sàn + Diện tích khác (tầng hầm, móng, mái, sân)Diện tích sàn: cần cộng tất cả diện tích sàn với nhau, cụ thể nhà xây bao nhiêu tầng thì cộng bấy nhiêu sàn để tính diện tích sàn sử dụng.
+MụcNội dungDiễn giảiIPhần tính toán diện tích DàiRộngDiện tíchHệ sốDiện tích theo hệ sốGhi chú1Móng 30.00 Móng bằng Sàn trệt 15 4 60.00 0.5 30.00 2Trệt 60.00 Diện tích sàn 15 4 60.00 1 60.00
+Diện tích móng: cần tính toán kỹ lưỡng để đảm bảo an toàn cho ngôi nhà
+1
+Móng đơn tính 40% diện tích, ví dụ diện tích dưới sàn 50m 2 thì hệ số móng cọc neo là 0.4, móng cọc ép tải là 0.3
+2
+Móng bằng tính 50% diện tích
+3
+Móng bè tính 100% diện tích
+Lưu ý: Loại móng cọc ép sẽ chịu ảnh hưởng do chiều dài của cọc. Bên cạnh đó chưa tính đến các chi phí khác chẳng hạn phí ép cọc nếu dùng cọc ép tải.
+Diện tích phần mái nhà: Tính hệ số phần mái cần căn cứ vào vật liệu làm mái
+1
+Mái bê tông cốt thép, không lát gạch tính 50% diện tích
+2
+Mái bê tông cốt thép, lát gạch tính 60% diện tích
+3
+Mái ngói kèo sắt tính 60% diện tích nghiêng của mái nhà
+4
+Mái nhà bê tông dán ngói tính 85% diện tích nghiêng của mái
+5
+Mái tôn tính 30% diện tích của mái nhà
+Diện tích tum: Thông thường phần tum được thiết kế trên một phần diện tích sàn hoặc chừa sân thượng sau. Diện tích tầng tum được tính 100% diện tích sử dụng của toàn bộ ngôi nhà.
+Diện tích phần tầng hầm:
+1
+Tầng hầm có độ sâu nhỏ hơn 1m5 so với code đỉnh ra của hầm tính 150% diện tích
+2
+Tầng hầm có độ sâu nhỏ hơn 1m7 so với code đỉnh ra của hầm tính 170% diện tích
+3
+Tầng hầm có độ sâu nhỏ hơn 2m so với code đỉnh ra của hầm tính 200% diện tích
+4
+Tầng hầm có độ sâu lớn hơn 3m so với code đỉnh ra của hầm thì nhà thầu sẽ báo giá sau khi tiến hành khảo sát
+Diện tích phần sân:
+1
+Sân có diện tích dưới 15 m 2 có đổ cột, đổ đà kiểng, lát gạch, xây tường rào tính 100% diện tích
+2
+Sân có diện tích dưới 30 m 2 có đổ cột, đổ đà kiểng, xây tường rào và lát gạch nền tính 70% diện tích
+3
+Sân có diện tích trên 30 m 2 đổ cột, đổ đà kiểng, xây tường rào và lát gạch nền tính 50% diện tích
+4
+Sân thượng được dàn bê tông, có mái che hay trang trí tính 75% diện tích
+Tấm lợp lấy sáng chống nóngđược sử dụng phổ biến hiện nay
+Diện tích phần ban công:
+1
+Ban công có mái che ở trên tính 100% diện tích
+2
+Ban công không có mái che, có lát nền tính 70% diện tích
+3
+Ô trống trong nhà (thông tầng) lớn hơn 8m 2 tính 50% diện tích
+Ví dụ: Chi phí xây nhà cấp 4 được tính theo bảng dưới đây
+LOẠI CÔNG TRÌNHM2 XÂY DỰNG TỔNG THỂMỨC ĐỘ ĐẦU TƯxây dựngsảnh, ban côngmái đuaTổng Tối thiểuTrung bìnhKhá4tr/ m 2 5tr/ m 2 6tr/ m 2 NHÀ CẤP 4, 1 TẦNG60 6 18 84 336.000.000 420.000.000 504.000.000 80 8 24 112 448.000.000 560.000.000 672.000.000 100 10 30 140 560.000.000 700.000.000 840.000.000 120 12 36 168 672.000.000 840.000.000 1.008.000.000 140 14 42 196 784.000.000 980.000.000 1.176.000.000 150 15 45 210 840.000.000 1.050.000.000 1.260.000.000 160 16 48 224 896.000.000 1.120.000.000 1.344.000.000 180 18 54 252 1.008.000.000 1.260.000.000 1512.000.000 200 20 60 280 1.120.000.000 1.400.000.000 1.680.000.000 220 22 66 308 1.232.000.000 1.540.000.000 1.848.000.000 250 25 75 350 1.400.000.000 1.750.000.000 2.100.000.000
+2. Hướng dẫn cách tính giá xây dựng nhà ở dựa trên mét vuông
+Tính chi phí xây dựng nhà dựa trên m2 thường dựa vào 2 mốc giá:
+Đơn giá xây dựng phần thô với khoản 3.500.000đ/m 2
+Đơn giá xây dựng nhà ở trọn gói phụ thuộc vào các nguyên vật tư hoàn thiện như:
+1
+Vật tư giá rẻ thường có giá 4.500.000 đồng
+2
+Vật tư trung bình có giá 4.800.000 đồng
+3
+Các loại vật tư tốt hơn có giá từ 5.500.000 đồng
+4
+Còn vật tư chất lượng có giá từ 6.000.000 đồng
+Tính giá xây dựng nhà ở cấp 4 dựa trên mét vuông:
+Tấm lợp nhựa pvc
+Ví dụ 1: Bạn có nhu cầu xây nhà trên mảnh đất có diện tích 150m 2 , gồm 1 phòng khách, 1 phòng thờ và 3 phòng ngủ. Diện tích được chia ra 120m 2 để xây dựng còn 30m 2 trang trí sân vườn. Vậy diện tích xây dựng được tính như sau:
+1
+Diện tích móng = 50% x 120m 2 (sàn) = 60m 2
+2
+Diện tích sàn tầng 1 = 100% x 120m 2 (sàn) = 120m 2
+3
+Diện tích mái = 50% x 120m 2 (sàn) = 60m 2
+Vậy chi phí xây dựng = 240m 2 (tổng diện tích xây dựng) x 4.500.000 VNĐ (đơn giá xây dựng trọn gói với chi phí vật tư trung bình) = 1.080.000 VNĐ
+Ví dụ 2: Chủ nhà có nhu cầu xây nhà diện tích 5x20m, diện tích sân trước 5x4m, diện tích ban công 5×1,4m. Trên sân thượng có phòng thờ, sân thượng trước, sân phơi phía sau, mái bê tông cốt thép với hình thức xây nhà trọn gói cùng vật tư tốt, hoàn thiện cao cấp.
+Thông tin công trìnhRộngDàiDiện tíchHệ số tính (%)Diện tích xây dựngMÓNG (MÓNG ĐƠN)DT khuôn viên đất 5 20 100 20 20 TẦNG TRỆTDTXD trong nhà 5 16 80 100 80 Sân trước, sau 5 4 20 80 16 TẦNG LẦU 1DTXD sàn lầu 1 5 16 80 100 80 Ban công 5 1,4 7 100 7 TẦNG LẦU 2DTXD sàn lầu 2 2 16 80 100 80 Ban công 5 1,4 7 100 7 TẦNG SÂN THƯỢNGDTXD sàn sân thượng có mái che 5 10 50 100 50 DTXD sàn sân thượng phần không có mái che 5 7,4 37 50 18,5 TẦNG MÁI BTCTDTXD sàn tầng mái 5 11,4 57 50 28,5 TỔNG DIỆN TÍCH XÂY DỰNG387m 2 CHI PHÍ XÂY THÔ (đơn giá 3,3 triệu/m 2)1.277.100.000 VNĐ CHI PHÍ XÂY DỰNG TRỌN GÓI (đơn giá 6,5 triệu/m 2)2. 515.500.000 VNĐ
+Tính chi phí xây dựng nhà 2 tầng dựa trên mét vuông:
+Chi phí xây nhà 2 tầng = tổng diện tích x đơn giá xây dựng
+Ví dụ: Chủ nhà muốn xây nhà 2 tầng có diện tích 40m 2 , bao gồm 1 trệt, 1 lầu và sử dụng mái tôn, vật tư trung bình. Vậy diện tích xây dựng được tính như sau:
+1
+Diện tích móng = 40m 2 (sàn) x 50%= 20m 2
+2
+Diện tích tầng trệt = 40m 2 (sàn) x 100%= 40m 2
+3
+Diện tích lầu 1 (hay con gọi là tầng 2) = 40m 2 (sàn) x 100%= 40m 2
+4
+Diện tích mái tôn = 40m 2 (sàn) x 30% = 12,3m 2
+Vậy chi phí xây nhà 2 tầng 40m 2 = 112,3m 2 (tổng diện tích xây dựng) x 3.200.000 (đơn giá xây dựng trọn gói với chi phí vật tư trung bình) = 360 triệu (Bao gồm phần thô và chi phí nhân công hoàn thiện)
+Tính chi phí xây nhà 3 tầng dựa trên mét vuông:
+Cách tính dự toán xây dựng nhà 3 tầng chính xác nhất
+Ví dụ: Bạn muốn xây nhà 3 tầng có diện tích 5x12m, gồm 1 trệt, 1 lửng, 1 lầu và mái bê tông cốt thép với vật tư trung bình. Vậy diện tích xây dựng được tính như sau:
+1
+Diện tích móng = 60m 2 (sàn) x 50% = 30m 2
+2
+Diện tích tầng 1 (trệt) = 60m 2 (sàn) x 100%= 60m 2
+3
+Diện tích tầng 2 (lầu 1) = 60m 2 (sàn) x 100% = 60m 2
+4
+Diện tích lửng phần đổ sàn = 40m 2 x100% = 40m 2 , ô trống = 20m 2 x 50% = 10m 2
+5
+Diện tích mái đổ bê tông = 60m 2 (sàn) x 50% = 30m 2
+Chi phí xây nhà 3 tầng diện tích 60m 2 được tính như sau:
+1
+Đối với gói xây dựng thô: 230m 2 x 3.500.000 VNĐ= 805.000.000 VNĐ (Bao gồm phần thô và chi phí nhân công hoàn thiện)
+2
+Đối với xây dựng trọn gói với vật tư khá: 230m 2 x 5.500.000 VNĐ = 1.265.000.000 VNĐ (bao gồm phần thô, nhân công hoàn thiện và vật liệu hoàn thiện chưa có đồ rời như bàn, ghế, giường)
+II. Kinh nghiệm lựa chọn đơn vị xây dựng trọn gói chuyên nghiệp
+1. Hình ảnh và thương hiệu của công ty xây dựng, nhà thầu
+Bạn có thể theo dõi fanpage, website của nhà thầu và những bình luận của khách hàng hay tư vấn viên với khách hàng trên mạng xã hội… để nhận diện hình ảnh, thương hiệu của đơn vị nhà thầu uy tín.
+2. Chính sách giá cả hợp lý
+Bạn nên chọn nhà thầu có chính sách, giá cả hợp lý vì nếu giá thành rẻ thì khó đảm bảo chất lượng công trình, còn giá cao thì có thể vượt ngân sách của bạn. Do đó cân nhắc về giá cả khi lựa chọn đơn vị thầu xây dựng là điều cần thiết.
+3. Quy trình làm việc chuyên nghiệp, minh bạch
+Biện pháp thi công san nền bằng bơm cát phổ biến hiện nay
+Nhà thầu với quy trình làm việc minh bạch, chuyên nghiệp sẽ đem đến cho chủ đầu tư sự tin tưởng đồng thời hạn chế những rủi ro trong quá trình thi công xây dựng.
+4. Trình độ kỹ thuật chuyên môn của đội ngũ kiến trúc sư, nhân công
+Mỗi công trình nhà ở cần kỹ thuật và kinh nghiệm thi công khác nhau, tùy theo quy mô, yêu cầu của công trình để lựa chọn nhà thầu phù hợp, đem lại chất lượng thi công hiệu quả, đảm bảo tiến độ.
+5. Thời gian thi công
+Chủ đầu tư cần cân nhắc về vấn đề tiến độ thi công nhằm đảm bảo hiệu quả kinh tế, chất lượng cho công trình. Nhà thầu uy tín, chuyên nghiệp sẽ gửi tới chủ đầu tư bản kế hoạch thi công chi tiết, đầy đủ nội dung về biện pháp thi công, thời gian hoàn thiện – bàn giao công trình và quy định về thời gian chậm trễ…
+Qua bài viết trên, Minh Phát hy vọng đã chia sẻ những thông tin hữu ích giúp bạn dự toán xây dựng nhà ở và có thêm kinh nghiệm lựa chọn nhà thầu, đơn vị xây dựng uy tín, chất lượng.
