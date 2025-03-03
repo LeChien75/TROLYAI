@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot LEDACCHIEN.COM
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
+Chương trình chatbot được tạo ra từ LEDACCHIEN.COM (https://ledacchien.com/)
 
 
